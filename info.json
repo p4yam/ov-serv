@@ -1,0 +1,17 @@
+{
+  "servers":[
+    {
+      "connectionInfo":"https://raw.githubusercontent.com/p4yam/ov-serv/master/servers/usa1.txt",
+      "flag":"https://github.com/p4yam/ov-serv/raw/master/flags/united-states-of-america.png",
+      "name":"usa",
+      "primary":true
+    },
+        {
+      "connectionInfo":"https://raw.githubusercontent.com/p4yam/ov-serv/master/servers/usa1.txt",
+      "flag":"https://github.com/p4yam/ov-serv/raw/master/flags/united-states-of-america.png",
+      "name":"japan",
+      "primary":false
+    }
+    
+    ]
+}
